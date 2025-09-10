@@ -9,11 +9,6 @@ The system processes live taxi location data through a stream processing topolog
 
 ![Dashboard UI Home](/assets/dashboard_ui_home.png)
 
-## 🔗 Demo Servers
-
-- Primary Server: http://34.40.51.225:3000/home
-- Secondary Server: http://34.40.9.0:3000/home
-
 
 ##  🛠️ System Architecture
 ![Architecture Diagram](assets/arch_F4_B.png)
@@ -40,10 +35,6 @@ Before you begin, ensure you have the following installed:
 
 #### 1. Clone the Repository
 
-```bash
-git clone https://collaborating.tuhh.de/e-19/teaching/bd25_project_f4_b
-cd bd25_project_f4_b
-```
 
 #### 2. Verify Configuration
 
