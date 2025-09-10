@@ -1,0 +1,21 @@
+# Ignore build and dependency artifacts
+node_modules
+.next
+out
+
+# Ignore dev files
+.env
+.env.local
+*.log
+*.swp
+*.DS_Store
+*.pem
+npm-debug.log*
+
+# Optional
+coverage
+.vscode
+.idea
+.git
+.gitignore
+Dockerfile

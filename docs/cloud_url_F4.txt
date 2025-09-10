@@ -1,0 +1,23 @@
+__________________________________________________
+
+BD25_Project_F4_B: Real-Time Traffic Monitoring
+__________________________________________________
+
+Members:
+- Gayathri Shiburaj (641272)
+- Manali Suhas Bansode (638067)
+- Ravi Raj (641582)
+- Shinu Shaju (641425)
+
+__________________________________________________
+
+Cloud Demo Servers
+__________________________________________________
+1. Primary Server: http://34.40.51.225:3000/home
+2. Secondary Server: http://34.40.9.0:3000/home
+
+__________________________________________________
+
+Pipeline Performance Optimization Report
+__________________________________________________
+https://collaborating.tuhh.de/e-19/teaching/bd25_project_f4_b/-/blob/df7235aef3fb661cd32e1309291f5c08a2870a5d/docs/FLINK_PIPELINE_OPTIMIZATION_REPORT.md
