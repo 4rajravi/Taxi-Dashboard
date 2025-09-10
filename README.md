@@ -1,11 +1,5 @@
-###### Big Data Project (SoSe25) - Hamburg University of Technology
-# BD25_Project_F4_B: Real-Time Traffic Monitoring
+######  Real-Time Traffic Monitoring
 
-**Members:**
-- [Gayathri Shiburaj](https://collaborating.tuhh.de/cal1722)
-- [Manali Suhas Bansode](https://collaborating.tuhh.de/cqy3236)
-- [Ravi Raj](https://collaborating.tuhh.de/cuj0188)
-- [Shinu Shaju](https://collaborating.tuhh.de/cfw0791)
 
 ## 📌 Project Overview
 
