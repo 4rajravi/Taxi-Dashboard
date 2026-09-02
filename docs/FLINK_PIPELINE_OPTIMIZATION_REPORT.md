@@ -1,4 +1,3 @@
-###### BD25_Project_F4_B: Real-Time Traffic Monitoring
 # Apache Flink DataStreaming Pipeline Optimization Report
 
 
